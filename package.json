@@ -15,7 +15,8 @@
     "upgrade:dry": "npx @strapi/upgrade latest --dry"
   },
   "dependencies": {
-    "uuid": "^13.0.0"
+    "uuid": "^13.0.0",
+    "headlockr": "latest"
   },
   "devDependencies": {},
   "engines": {
